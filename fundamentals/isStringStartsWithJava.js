@@ -4,6 +4,6 @@ function isStringStartsWithJava(str) {
 
 // Tests
  
-// console.log(isStringStartsWithJava('Java'));
-// console.log(isStringStartsWithJava('JavaScript'));
-// console.log(isStringStartsWithJava('Jiva'));
+console.log(isStringStartsWithJava('Java'));
+console.log(isStringStartsWithJava('JavaScript'));
+console.log(isStringStartsWithJava('Jiva'));
